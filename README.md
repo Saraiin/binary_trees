@@ -10,3 +10,11 @@
 - Task 2: 
  Insert right
 
+- Task 3:
+ Dlete an entire binary tree
+
+- Task 4: 
+ Check if node is leaf
+
+- Task 5:
+ Check if node is root
