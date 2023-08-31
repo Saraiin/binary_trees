@@ -49,6 +49,6 @@
 - Task 16: checck if perfect
 > formula (2^(h+1))-1 with h: height
 
-- Task 17: find sebling
+- Task 17: find sibling
 
 - Task 18: find uncle
