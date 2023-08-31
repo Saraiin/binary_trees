@@ -30,7 +30,7 @@ int min_max(const binary_tree_t *tree, int type)
 	if (type == 1)
 		r = n1 > n2 ? n1 : n2;
 
-	return (res);
+	return (r);
 }
 
 /**
